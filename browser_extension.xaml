@@ -81,7 +81,7 @@
                     <x:Boolean x:Key="IsExpanded">True</x:Boolean>
                   </scg:Dictionary>
                 </sap:WorkflowViewStateService.ViewState>
-                <WriteLine DisplayName="Write Line" sap:VirtualizedContainerService.HintSize="230,61" sap2010:WorkflowViewState.IdRef="WriteLine_1" Text="Hello" />
+                <WriteLine DisplayName="Write Line" sap:VirtualizedContainerService.HintSize="230,61" sap2010:WorkflowViewState.IdRef="WriteLine_1" Text="Hello+jkhdbkdj" />
                 <Delay Duration="00:00:05" sap:VirtualizedContainerService.HintSize="230,22" sap2010:WorkflowViewState.IdRef="Delay_1" />
                 <ui:CloseTab Browser="{x:Null}" DisplayName="Close Tab" sap:VirtualizedContainerService.HintSize="230,22" sap2010:WorkflowViewState.IdRef="CloseTab_1" />
               </Sequence>
